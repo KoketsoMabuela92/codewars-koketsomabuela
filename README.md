@@ -1,2 +1,2 @@
 # codewars-koketsomabuela
-Solutions to Codewars Katas
+My solutions to Codewars Katas that I've worked on.
